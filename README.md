@@ -1,3 +1,33 @@
+<H1>Linked List Assignment</H1>
+
+Name:<B> Ratan Shah</B>
+<br>
+Assignment: Linked List Assignment
+
+<h2>Short Explanation</h2>
+
+A linked list is a linear data structure made up of nodes. Each node contains a value and a reference called next that points to the next node. The head stores the reference to the first node in the linked list.
+
+<h2>Methods Implemented</h2>
+
+<h3>Methods</h3> 
+
+addFirst(value) — Adds a new node at the beginning.
+
+addLast(value) — Adds a new node at the end.
+
+deleteFirst() — Deletes the first node.
+
+deleteLast() — Deletes the last node.
+
+print() — Displays all nodes in the linked list.
+
+find(value) — Searches for a value and returns true or false.
+
+delete(value) — Deletes the first node containing the given value.
+
+
+
 ##OUTPUT
 
 
