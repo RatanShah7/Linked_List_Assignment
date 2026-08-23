@@ -28,7 +28,7 @@ delete(value) — Deletes the first node containing the given value.
 
 
 
-##OUTPUT
+<h2>OUTPUT</h2>
 
 
 <img width="1210" height="356" alt="image" src="https://github.com/user-attachments/assets/0402853c-a6b5-4569-bf16-c5f6840c7b68" />
