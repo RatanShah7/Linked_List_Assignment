@@ -31,10 +31,6 @@ delete(value) — Deletes the first node containing the given value.
 
 <h2>OUTPUT</h2>
 
+<img width="756" height="697" alt="image" src="https://github.com/user-attachments/assets/c015db79-e532-4079-910c-a2251403c195" />
 
-<img width="1210" height="356" alt="image" src="https://github.com/user-attachments/assets/0402853c-a6b5-4569-bf16-c5f6840c7b68" />
-
-
-
-<img width="1230" height="256" alt="image" src="https://github.com/user-attachments/assets/98e61e2e-8ffa-4935-9e2a-8e407566c582" />
 
